@@ -21,4 +21,5 @@
 ![Victory Log](./Docs/Log_85.PNG)
 
 
-
+## Albumentation
+![Model_Summary](./Docs/Albumentation.PNG)
