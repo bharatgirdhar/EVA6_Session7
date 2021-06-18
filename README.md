@@ -9,11 +9,16 @@
 2. Architecture : - 24-->32-->64-->128 in ALL 4 Layers
 3. Using GAP and FC layer at end.
 4. RF - 44
-5. Output - 85.1% Accuracy
+5. Oversampling of Underperforming classes - Checking for classes that are underperforming and training them more than other classes
+6. Output - 85.1% Accuracy
 
 ## Model Summary
+![Model_Summary](./Docs/Model_Summary.png)
 
 
+## Log with 85%+ Accuracy
+
+![Victory Log](./Docs/Log_85.PNG)
 
 
 
